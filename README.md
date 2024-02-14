@@ -10,7 +10,7 @@ OBSERVATION 2: this project was made in Dec 2020. Any changes in these investmen
 ## Descrição
 Análise de dois tipos de investimentos no Brazil: Tesouro Selic e Poupança, com o objetivo de entender qual das duas é a melhor opção, e como juros os afetam.
 
-OBSERVAÇÃO: esse projeto foi feito em Dezembro 2020. Quaiquer mudanças nesses investimentos após esse período não foram consideras na análise.
+OBSERVAÇÃO: esse projeto foi feito em Dezembro 2020. Quaisquer mudanças nesses investimentos após esse período não foram consideras na análise.
 
 ## Avisos
 O autor desse estudo não é um especialista de investimentos. Portanto, esse trabalho não é uma recomendação de investimento.
